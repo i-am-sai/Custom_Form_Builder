@@ -28,7 +28,7 @@ I would like to thank BoloForms and Auto Proctor for inspiring this project.
 
 Home Page :
 
-![Screenshot 2023-08-04 205615](https://github.com/i-am-sai/Custom_Form_Builder/assets/131809064/0a47cb62-7b92-49b7-a741-9ebcd45be13e)
+![Screenshot (36)](https://github.com/i-am-sai/Custom_Form_Builder/assets/131809064/f8e007a5-f5a5-4c18-a0f2-fe97d5c715ad)
 
 Database :
 
