@@ -3,8 +3,6 @@ const { FormModel } = require("../model/FormModel");
 
 const FormRouter = express.Router()
 
-
-
 // post request
 FormRouter.post('/add', async (req, res) => {
     try {
@@ -15,7 +13,6 @@ FormRouter.post('/add', async (req, res) => {
         res.status(500).json({ error: 'Unable to create the form.' });
     }
 });
-
 
 // Get Request 
 FormRouter.get('/', async (req, res) => {
