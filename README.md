@@ -25,5 +25,11 @@ For any inquiries, please contact us at saiswaroopkdevarmane@gmail.con
 The UI design of the form builder takes inspiration from various form builders like Typeform and Paperform while incorporating innovative elements.
 
 I would like to thank BoloForms and Auto Proctor for inspiring this project.
+
+Home Page :
+
 ![Screenshot 2023-08-04 205615](https://github.com/i-am-sai/Custom_Form_Builder/assets/131809064/0a47cb62-7b92-49b7-a741-9ebcd45be13e)
+
+Database :
+
 ![Screenshot 2023-08-04 210455](https://github.com/i-am-sai/Custom_Form_Builder/assets/131809064/62d6d404-6548-44c4-99eb-62eff1b3779e)
